@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://Erandiyasara.github.io/portfolio",
+    "feed_url": "https://Erandiyasara.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erandi"
+    },
+    "items": [
+    ]
+}
